@@ -1,0 +1,48 @@
+Here's a solution for Exercise 7: Find the Most Frequent Character in a String using Java Streams:
+Solution:
+java
+CopyEdit
+import java.util.*;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
+public class MostFrequentCharacter {
+    public static Optional<Character> findMostFrequentChar(String text) {
+        return text.chars() // Convert to IntStream of character codes
+                .mapToObj(c -> (char) c) // Convert int to Character
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting())) // Count occurrences
+                .entrySet().stream() // Convert to Stream of Map entries
+                .max(Map.Entry.comparingByValue()) // Find the entry with max value
+                .map(Map.Entry::getKey); // Extract the character
+    }
+
+    public static void main(String[] args) {
+        String text = "banana";
+        Optional<Character> result = findMostFrequentChar(text);
+        result.ifPresentOrElse(
+                ch -> System.out.println("Most frequent character: " + ch),
+                () -> System.out.println("String is empty")
+        );
+    }
+}
+Explanation:
+1.	Convert String to Stream of Characters
+o	text.chars() creates an IntStream of Unicode values.
+o	.mapToObj(c -> (char) c) converts each Unicode value back to a Character.
+2.	Group and Count Occurrences
+o	.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
+	Groups each character (Function.identity() means it groups by character itself).
+	Uses Collectors.counting() to count occurrences.
+3.	Find the Most Frequent Character
+o	.entrySet().stream().max(Map.Entry.comparingByValue()) finds the character with the highest count.
+4.	Extract and Return the Character
+o	.map(Map.Entry::getKey) extracts the most frequent character.
+o	Since the string might be empty, it returns an Optional<Character>.
+5.	Print Result Using Optional Handling
+o	If present, print the character; otherwise, print "String is empty".
+Example Output:
+less
+CopyEdit
+Most frequent character: a
+(since 'a' appears 3 times in "banana")
+Would you like any modifications or explanations in more depth? 
