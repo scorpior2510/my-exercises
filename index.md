@@ -2,12 +2,12 @@
 
 ## In Progress
 | Exercise | Topic | Reference |
-|----------|-----------|
-| [Exercise] | [Topic] | [Reference](referece/...) |
+|----------|-------|-----------|
+| Stream Exercises2 | Java > Functional Programming | [Stream Exercises2](java/Functional_Programming/stream-exercises2/) |
 
 ## New
 | Exercise | Topic | Reference |
-|----------|-----------|
+|----------|-------|-----------|
 | [Exercise] | [Topic] | [Reference](referece/...) |
 
 # (Past By Topic)
@@ -23,6 +23,11 @@
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
 |----------|------------|----------------|--------|------------------|
 | Different Loop Types | 3/10 | _2024-10-24_ | Completed | [3](Java/Loops/different-loop-types/) |
+
+## Interfaces
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| Default and Static interface methods | 3/10 | _2025-03-06_ | Completed | [6](Java/Interfaces/default-and-static-methods/) |
 
 ### Enums
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
