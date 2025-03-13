@@ -3,7 +3,7 @@
 ## In Progress
 | Exercise | Topic | Reference |
 |----------|-------|-----------|
-| Stream Exercises2 | Java > Functional Programming | [Stream Exercises2](java/Functional_Programming/stream-exercises2/) |
+| [Exercise] | [Topic] | [Reference](referece/...) |
 
 ## New
 | Exercise | Topic | Reference |
@@ -24,7 +24,7 @@
 |----------|------------|----------------|--------|------------------|
 | Different Loop Types | 3/10 | _2024-10-24_ | Completed | [3](Java/Loops/different-loop-types/) |
 
-## Interfaces
+### Interfaces
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
 |----------|------------|----------------|--------|------------------|
 | Default and Static interface methods | 3/10 | _2025-03-06_ | Completed | [6](Java/Interfaces/default-and-static-methods/) |
@@ -58,6 +58,7 @@
 | Various Stream Exercises | 6/10 | _2025-02-04_ | Completed | [7](Java/Functional_Programming/stream-exercises/) |
 | Optional Exercises | 6/10 | _2025-02-09_ | Completed | [7](Java/Functional_Programming/optional-exercises/) |
 | Mixed Functional Exercises | 7/10 | _2025-02-10_ | Completed | [12](Java/Functional_Programming/mixed-functional-exercises/) |
+| Stream Exercises2 | 7/10 | _2025-03-13_ | Completed | [7](java/Functional_Programming/stream-exercises2/) |
 
 ## Spring_Framework
 
