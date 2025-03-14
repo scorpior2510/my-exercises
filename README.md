@@ -1,6 +1,6 @@
 ## About
 An Exercise Repository that Manages and keeps track on all of my coding exercises.
-Facilitates organization and supports fixed workflow when active learning working on coding exercises.
+Facilitates organization and supports fixed workflow when active learning and working on coding exercises.
 
 ## Repository Structure
 - Topic → Subtopic → Exercise
@@ -15,9 +15,12 @@ Facilitates organization and supports fixed workflow when active learning workin
 
 ## Workflow
 - Choosing an Exercise:
-    - Open index.md to see the list of exercises.
-    - Continue working on exercises under **In Progress** or Pick a new exercise under **New**
-    - If no exercise exists under these sections either pick one from the **optional future exercises** folder, or pick past logged exercise from index and do it again.
+    - Open index.md
+    - Continue working on exercises under **In Progress**
+    - If there are no exercises under In Progress: 
+        - Go to Tracking Section  > choose an exercise i
+        - The top subject in the table is the one that needs to get priority
+        - Go to the optional future exercises and choose related exercise, or generate new ones. *consider what's written in the topic notes while you are doing it
 - Adding a New Exercise:
     - Create an exercise folder in the appropriate place (See hierarchy above)
     *Under _tools there is a template folder that can be used.
@@ -26,7 +29,9 @@ Facilitates organization and supports fixed workflow when active learning workin
     - Work on the exercise. make sure it is saved to the **code** folder.
 - Finishing an Exercise:
     - Update Relevant `tracking.md` & `exercise.md` files
-    - Update `index.md` file - transfer the file to it's relevant section and update new tracking information.
+    - Update `index.md` file: 
+        - Move details about the exercise to it's relevant section and update new tracking information.
+        - Update Tracking information in the Tracking section - update topic status and prioritize the subject again by moving the table record down (Table records are arranged by priority top to bottom)
     - Commit changes to git repository
 
 - Other things:

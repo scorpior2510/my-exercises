@@ -1,16 +1,21 @@
-# (New & In Progress)
+# (Tracking)
 
-## In Progress
+| Topic | Sub Topics | Last Exercise | Completed On | Notes |
+|-------|------------|---------------|--------------|-------|
+| Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | -- | -- | -- |
+| Java - Enums | -- | [Error Code and Messages](Java/Enums/error-code-and-messages/) | _2024-12-02_ | for next time: There is a good exercise left at chatGpt folder |
+| Spring Framework | -- | -- | -- | -- |
+| Java - Crud | Crud, Dao, Jdbc, Transactions, Batch | [Movie Crud App](Java/Jdbc/movie-crud-app/) | _2024-10-23_ | for next time: choose an exercise 3-4 hours long, that has dao, jdbc, crud, transactions, batches & focus on handling exceptions in a good way |
+| Random Unmentioned | -- | -- | -- | Random small java exercises that are more specific |
+| Java - Functional Programming | Lambdas & Method References & Optional & Stream & Functional Interfaces & Anonymous Classes | [Stream Exercises2, 7](java/Functional_Programming/stream-exercises2/) | _2025-03-13_ | for next time: java - functional - varied exercises in chatgpt folder |
+
+# (In Progress)
+
 | Exercise | Topic | Reference |
 |----------|-------|-----------|
 | [Exercise] | [Topic] | [Reference](referece/...) |
 
-## New
-| Exercise | Topic | Reference |
-|----------|-------|-----------|
-| [Exercise] | [Topic] | [Reference](referece/...) |
-
-# (Past By Topic)
+# (History)
 
 ## Java
 
