@@ -18,7 +18,7 @@ Facilitates organization and supports fixed workflow when active learning and wo
     - Open index.md
     - Continue working on exercises under **In Progress**
     - If there are no exercises under In Progress: 
-        - Go to Tracking Section  > choose an exercise i
+        - Go to Tracking Section
         - The top subject in the table is the one that needs to get priority
         - Go to the optional future exercises and choose related exercise, or generate new ones. *consider what's written in the topic notes while you are doing it
 - Adding a New Exercise:

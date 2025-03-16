@@ -2,7 +2,7 @@
 
 | Topic | Sub Topics | Last Exercise | Completed On | Notes |
 |-------|------------|---------------|--------------|-------|
-| Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | -- | -- | -- |
+| Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | [Library Management System](java/Oop/oop-library-management-system/) | _2025-03-16_ | One More Exercise and to the end of the prioritizing |
 | Java - Enums | -- | [Error Code and Messages](Java/Enums/error-code-and-messages/) | _2024-12-02_ | for next time: There is a good exercise left at chatGpt folder |
 | Spring Framework | -- | -- | -- | -- |
 | Java - Crud | Crud, Dao, Jdbc, Transactions, Batch | [Movie Crud App](Java/Jdbc/movie-crud-app/) | _2024-10-23_ | for next time: choose an exercise 3-4 hours long, that has dao, jdbc, crud, transactions, batches & focus on handling exceptions in a good way |
@@ -13,11 +13,15 @@
 
 | Exercise | Topic | Reference |
 |----------|-------|-----------|
-| [Exercise] | [Topic] | [Reference](referece/...) |
 
 # (History)
 
 ## Java
+
+### Oop
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| Library Management System | 5/10 | _2025-03-16_ | Completed | [1](Java/Oop/oop-library-management-system/) |
 
 ### Crud
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
