@@ -1,5 +1,13 @@
 # (Tracking)
 
+Notes:
+- Finish & Update Spring Exercises. Exercises not done should be separated for the future.
+- Finish Regex Exercises
+- String Exercises (15 Exercises in Optional > ChatGpt Exercises)
+- Date Exercises (20 Exercises in optional > ChatGpt Exercises)
+- Collection Exercises (20 Exercises in optional > ChatGpt Exercises)
+- Explore Coding Exercises on the web and figure out how to combine it to your workflow (I have notes about possible sources in one note - delete this section after going through the stuff there).
+
 | Topic | Sub Topics | Last Exercise | Completed On | Notes |
 |-------|------------|---------------|--------------|-------|
 | Java - Enums | -- | [Error Code and Messages](Java/Enums/error-code-and-messages/) | _2024-12-02_ | for next time: There is a good exercise left at chatGpt folder |
@@ -14,6 +22,8 @@
 | Exercise | Topic | Reference |
 |----------|-------|-----------|
 | Spring mixed basic exercises1 | Spring Basics | [15](Spring_Framework/Spring_Basics/spring-mixed-basic-exercises1/) |
+| Regex simple exercises | String > Regex | [7](Java/Strings/simple-regex-exercises/) |
+
 
 # (History)
 
@@ -70,6 +80,12 @@
 | Optional Exercises | 6/10 | _2025-02-09_ | Completed | [7](Java/Functional_Programming/optional-exercises/) |
 | Mixed Functional Exercises | 7/10 | _2025-02-10_ | Completed | [12](Java/Functional_Programming/mixed-functional-exercises/) |
 | Stream Exercises2 | 7/10 | _2025-03-13_ | Completed | [7](java/Functional_Programming/stream-exercises2/) |
+
+### Design Patterns
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| SingleSingleton - When to use | 3/10 | _2025-04-02_ | Completed | [1](Java/Design_Patterns/singleton-when-to-use/) |
+| Configurable Computer Builder | - | _2025-04-09_ | Completed | [1](Java/Design_Patterns/configurable-computer-builder/) |
 
 ## Spring_Framework
 

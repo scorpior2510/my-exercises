@@ -19,7 +19,8 @@ Facilitates organization and supports fixed workflow when active learning and wo
     - Continue working on exercises under **In Progress**
     - If there are no exercises under In Progress: 
         - Go to Tracking Section
-        - The top subject in the table is the one that needs to get priority
+        - If there are notes under the note section follow what's written there
+        - If not, got to the tracking table: The top subject in the table is the one that needs to get priority
         - Go to the optional future exercises and choose related exercise, or generate new ones. *consider what's written in the topic notes while you are doing it
 - Adding a New Exercise:
     - Create an exercise folder in the appropriate place (See hierarchy above)
