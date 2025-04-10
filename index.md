@@ -2,7 +2,6 @@
 
 Notes:
 - Finish & Update Spring Exercises. Exercises not done should be separated for the future.
-- Finish Regex Exercises
 - String Exercises (15 Exercises in Optional > ChatGpt Exercises)
 - Date Exercises (20 Exercises in optional > ChatGpt Exercises)
 - Collection Exercises (20 Exercises in optional > ChatGpt Exercises)
@@ -16,13 +15,13 @@ Notes:
 | Random Unmentioned | -- | -- | -- | Random small java exercises that are more specific |
 | Java - Functional Programming | Lambdas & Method References & Optional & Stream & Functional Interfaces & Anonymous Classes | [Stream Exercises2, 7](java/Functional_Programming/stream-exercises2/) | _2025-03-13_ | for next time: java - functional - varied exercises in chatgpt folder |
 | Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | [Payment Processing System](java/Oop/payment-processing-system/) | _2025-03-20_ | Previously i worked on ChatGpt exercises, this time - choose something from john bryce (more predictable) |
+| Java - Regex | -- | [Simple Regex exercises](Java/Strings/simple-regex-exercises/) | _2025_04_10_ | for next time: There are follow up exercises in chatGpt folder: "java - Regex - 7 exercises (round 2)" |
 
 # (In Progress)
 
 | Exercise | Topic | Reference |
 |----------|-------|-----------|
 | Spring mixed basic exercises1 | Spring Basics | [15](Spring_Framework/Spring_Basics/spring-mixed-basic-exercises1/) |
-| Regex simple exercises | String > Regex | [7](Java/Strings/simple-regex-exercises/) |
 
 
 # (History)
@@ -86,6 +85,11 @@ Notes:
 |----------|------------|----------------|--------|------------------|
 | SingleSingleton - When to use | 3/10 | _2025-04-02_ | Completed | [1](Java/Design_Patterns/singleton-when-to-use/) |
 | Configurable Computer Builder | - | _2025-04-09_ | Completed | [1](Java/Design_Patterns/configurable-computer-builder/) |
+
+### String
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| Regex simple exercises | 4/10 | _2025-04-10_ | Completed | [7](Java/Strings/simple-regex-exercises/) |
 
 ## Spring_Framework
 
