@@ -16,6 +16,7 @@ Notes:
 | Java - Functional Programming | Lambdas & Method References & Optional & Stream & Functional Interfaces & Anonymous Classes | [Stream Exercises2, 7](java/Functional_Programming/stream-exercises2/) | _2025-03-13_ | for next time: java - functional - varied exercises in chatgpt folder |
 | Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | [Payment Processing System](java/Oop/payment-processing-system/) | _2025-03-20_ | Previously i worked on ChatGpt exercises, this time - choose something from john bryce (more predictable) |
 | Java - Regex | -- | [Simple Regex exercises](Java/Strings/simple-regex-exercises/) | _2025_04_10_ | for next time: There are follow up exercises in chatGpt folder: "java - Regex - 7 exercises (round 2)" |
+| Java - Strings | -- | [Various String Exercises](Java/Strings/various-string-exercises/) | _2025_04_10_ | for next time: There are follow up exercises in chatGpt folder: "java - Various String Exercises (round 2)" |
 
 # (In Progress)
 
@@ -90,6 +91,7 @@ Notes:
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
 |----------|------------|----------------|--------|------------------|
 | Regex simple exercises | 4/10 | _2025-04-10_ | Completed | [7](Java/Strings/simple-regex-exercises/) |
+| Various String Exercises | 5/10 | _2025-04-10_ | Completed | [15](Java/Strings/various-string-exercises/) |
 
 ## Spring_Framework
 
