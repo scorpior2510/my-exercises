@@ -2,8 +2,6 @@
 
 Notes:
 - Finish & Update Spring Exercises. Exercises not done should be separated for the future.
-- String Exercises (15 Exercises in Optional > ChatGpt Exercises)
-- Date Exercises (20 Exercises in optional > ChatGpt Exercises)
 - Collection Exercises (20 Exercises in optional > ChatGpt Exercises)
 - Explore Coding Exercises on the web and figure out how to combine it to your workflow (I have notes about possible sources in one note - delete this section after going through the stuff there).
 
@@ -92,6 +90,11 @@ Notes:
 |----------|------------|----------------|--------|------------------|
 | Regex simple exercises | 4/10 | _2025-04-10_ | Completed | [7](Java/Strings/simple-regex-exercises/) |
 | Various String Exercises | 5/10 | _2025-04-10_ | Completed | [15](Java/Strings/various-string-exercises/) |
+
+### Date
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| Various Date Exercises | 3/10 | _2025-04-11_ | Completed | [15](Java/Date/various-date-exercises/) |
 
 ## Spring_Framework
 
