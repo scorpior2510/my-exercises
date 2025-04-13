@@ -2,7 +2,6 @@
 
 Notes:
 - Finish & Update Spring Exercises. Exercises not done should be separated for the future.
-- Collection Exercises (20 Exercises in optional > ChatGpt Exercises)
 - Explore Coding Exercises on the web and figure out how to combine it to your workflow (I have notes about possible sources in one note - delete this section after going through the stuff there).
 
 | Topic | Sub Topics | Last Exercise | Completed On | Notes |
@@ -15,6 +14,7 @@ Notes:
 | Java - Oop | Oop & Basics (Api's, Arrays, Loops and so on...) | [Payment Processing System](java/Oop/payment-processing-system/) | _2025-03-20_ | Previously i worked on ChatGpt exercises, this time - choose something from john bryce (more predictable) |
 | Java - Regex | -- | [Simple Regex exercises](Java/Strings/simple-regex-exercises/) | _2025_04_10_ | for next time: There are follow up exercises in chatGpt folder: "java - Regex - 7 exercises (round 2)" |
 | Java - Strings | -- | [Various String Exercises](Java/Strings/various-string-exercises/) | _2025_04_10_ | for next time: There are follow up exercises in chatGpt folder: "java - Various String Exercises (round 2)" |
+| Java - Collections | -- | [Various Collection Exercises](Java/Collections/various-collection-exercises/) | _2025-04-13_ | for next time: There are follow up exercises in chatGpt folder: "java - Collection API - 15 exercises - round2" |
 
 # (In Progress)
 
@@ -94,7 +94,12 @@ Notes:
 ### Date
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
 |----------|------------|----------------|--------|------------------|
-| Various Date Exercises | 3/10 | _2025-04-11_ | Completed | [15](Java/Date/various-date-exercises/) |
+| Various Date Exercises | 3/10 | _2025-04-11_ | Completed | [20](Java/Date/various-date-exercises/) |
+
+### Collections
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
+| Various Collection Exercises | 6/10 | _2025-04-13_ | Completed | [18](Java/Collections/various-collection-exercises/) |
 
 ## Spring_Framework
 
