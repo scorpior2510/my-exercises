@@ -14,20 +14,26 @@ Facilitates organization and supports fixed workflow when active learning and wo
 - _optional_future_exercises - exercises that hasn't indexed and are a maybe for the future
 
 ## Workflow
+
 - Choosing an Exercise:
     - Open index.md
-    - Continue working on exercises under **In Progress**
-    - If there are no exercises under In Progress: 
-        - Go to Tracking Section
-        - If there are notes under the note section follow what's written there
-        - If not, got to the tracking table: The top subject in the table is the one that needs to get priority
-        - Go to the optional future exercises and choose related exercise, or generate new ones. *consider what's written in the topic notes while you are doing it
+    - Problem Solving:
+        - Continue where i left of in LeetCode
+    - Other:
+        - Continue working on exercises under **In Progress**
+        - If there are no exercises under In Progress: 
+            - Go to Tracking Section
+            - If there are notes under the note section follow what's written there
+            - If not, got to the tracking table: The top subject in the table is the one that needs to get priority
+            - Go to the optional future exercises and choose related exercise, or generate new ones. *consider what's written in the topic notes while you are doing it
+
 - Adding a New Exercise:
     - Create an exercise folder in the appropriate place (See hierarchy above)
     *Under _tools there is a template folder that can be used.
     - Update Exercise `exercise.md` file
     - Update Repository's `index.md` file (under **New** or **In Progress**)
     - Work on the exercise. make sure it is saved to the **code** folder.
+
 - Finishing an Exercise:
     - Update Relevant `tracking.md` & `exercise.md` files
     - Update `index.md` file: 

@@ -1,9 +1,31 @@
 # (Tracking)
 
-Notes:
+## Notes:
 - Finish & Update Spring Exercises. Exercises not done should be separated for the future.
 - Explore Coding Exercises on the web and figure out how to combine it to your workflow (I have notes about possible sources in one note - delete this section after going through the stuff there).
 
+## Problem Solving:
+*See Elaborate Review Instructions in problem solving folder Readme.md file
+
+| Topic | Exercise Name | Solved | Phase 1 | Phase 2 | Phase 3 | Phase 4 | Notes |
+|-------|---------------|--------|---------|---------|---------|---------|-------|
+
+example for filling the table next time (delete after inserting the first record):
+- Problem: House Robber
+- Solved: 2025-04-14
+- Phase: 1, Next Review: 2025-04-21
+- Notes: Struggled with overlapping subproblems logic
+Each review ends with a confidence tag:
+- `🔥 Easy Recall` → promote to long-term or drop from cycle
+- `🤔 Partial Recall` → stay in current phase or repeat
+- `❌ Forgotten` → back to Phase 1
+| Phase     | When to Review           | Purpose                                              |
+|-----------|--------------------------|------------------------------------------------------|
+| Phase 1   | 1 week after solving      | Reinforce early understanding                        |
+| Phase 2   | 3–4 weeks after Phase 1  | Test mid-term memory and spot reusable patterns      |
+| Phase 3   | 3 months after Phase 2   | Long-term check — revisit only if truly necessary    |
+
+## All Other Topics:
 | Topic | Sub Topics | Last Exercise | Completed On | Notes |
 |-------|------------|---------------|--------------|-------|
 | Java - Enums | -- | [Error Code and Messages](Java/Enums/error-code-and-messages/) | _2024-12-02_ | for next time: There is a good exercise left at chatGpt folder |
@@ -100,6 +122,10 @@ Notes:
 | Exercise | Difficulty | Last Completed | Status | Num of Exercises |
 |----------|------------|----------------|--------|------------------|
 | Various Collection Exercises | 6/10 | _2025-04-13_ | Completed | [18](Java/Collections/various-collection-exercises/) |
+
+### Problem Solving
+| Exercise | Difficulty | Last Completed | Status | Num of Exercises |
+|----------|------------|----------------|--------|------------------|
 
 ## Spring_Framework
 
